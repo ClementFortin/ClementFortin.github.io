@@ -1,64 +1,32 @@
 ---
 layout: archive
-title: "CV"
+title: "Full CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
-
 {% include base_path %}
+======
+Available [here](/files/cv.pdf).
 
+Short CV
+======
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Physics, Mcgill University, 2028 (expected)
+  * Supervisors: [Tami Pereg-Barnea](https://pbtami.wixsite.com/mysite-1), [Kai Wang](https://kw.physics.mcgill.ca/)
+* M.Sc. in Mathematics, McGill University, 2023
+  * Supervisor: [Vojkan Jaksic](https://jaksic.xyz/)  
+* B.Sc. Joint Honours in Physics and Mathematics, McGill University, 2022
 
-Work experience
+Teaching Assistantships
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Mcgill University
+  * PHYS 457: Honours Quantum Mechanics II (Jan. 2025 - May 2025)
+  * PHYS 551: Quantum Theory (Sep. 2024 - Dec. 2024)
+  * PHYS 457: Honours Quantum Mechanics II (Jan. 2024 - May 2024)
+  * PHYS 352: Honours Electromagnetic Waves (Sep. 2023 - Dec. 2023)
+  * MATH 141: Calculus 2 (Jan. 2023 - May 2023)
+  * MATH 455: Honours Analysis 4 (Jan. 2023 - May 2023)
+  * MATH 454: Honours Analysis 3 (Sep. 2022 - Dec. 2022)
