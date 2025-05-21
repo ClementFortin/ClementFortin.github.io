@@ -6,9 +6,8 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-
-{% include base_path %}
 ======
+{% include base_path %}
 Available [here](/files/cv.pdf).
 
 Short CV
@@ -19,7 +18,9 @@ Education
 * Ph.D in Physics, McGill University, 2028 (expected)
   * Supervisors: [Tami Pereg-Barnea](https://pbtami.wixsite.com/mysite-1), [Kai Wang](https://kw.physics.mcgill.ca/)
 * M.Sc. in Mathematics, McGill University, 2023
-  * Supervisor: [Vojkan Jaksic](https://jaksic.xyz/)  
+  * Supervisor: [Vojkan Jaksic](https://jaksic.xyz/)
+* Visiting M.Sc. Student, CY Cergy Paris University, AGM Laboratory, May 2022 - July 2022
+  * Supervisor: [Armen Shirikyan](https://shirikyan.u-cergy.fr/)
 * B.Sc. Joint Honours in Physics and Mathematics, McGill University, 2022
 
 Teaching Assistantships
