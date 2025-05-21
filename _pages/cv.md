@@ -31,3 +31,8 @@ Teaching Assistantships
   * MATH 141: Calculus 2 (Jan. 2023 - May 2023)
   * MATH 455: Honours Analysis 4 (Jan. 2023 - May 2023)
   * MATH 454: Honours Analysis 3 (Sep. 2022 - Dec. 2022)
+ 
+* CY Cergy Paris University
+  * Information-Theoretic Notions of Entropy (May 2022 - July 2022)
+  * Complex Analysis (May 2022 - July 2022)
+  * Finite State Markov Chains (May 2022 - July 2022)
