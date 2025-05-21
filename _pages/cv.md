@@ -6,15 +6,17 @@ author_profile: true
 redirect_from:
   - /resume
 ---
+
 {% include base_path %}
 ======
 Available [here](/files/cv.pdf).
 
 Short CV
 ======
+
 Education
 ======
-* Ph.D in Physics, Mcgill University, 2028 (expected)
+* Ph.D in Physics, McGill University, 2028 (expected)
   * Supervisors: [Tami Pereg-Barnea](https://pbtami.wixsite.com/mysite-1), [Kai Wang](https://kw.physics.mcgill.ca/)
 * M.Sc. in Mathematics, McGill University, 2023
   * Supervisor: [Vojkan Jaksic](https://jaksic.xyz/)  
@@ -22,7 +24,7 @@ Education
 
 Teaching Assistantships
 ======
-* Mcgill University
+* McGill University
   * PHYS 457: Honours Quantum Mechanics II (Jan. 2025 - May 2025)
   * PHYS 551: Quantum Theory (Sep. 2024 - Dec. 2024)
   * PHYS 457: Honours Quantum Mechanics II (Jan. 2024 - May 2024)
