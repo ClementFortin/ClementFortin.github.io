@@ -6,8 +6,6 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-======
-{% include base_path %}
 Available [here](/files/cv.pdf).
 
 Short CV
