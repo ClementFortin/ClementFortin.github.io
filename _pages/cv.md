@@ -17,7 +17,7 @@ Education
   * Supervisors: [Tami Pereg-Barnea](https://pbtami.wixsite.com/mysite-1), [Kai Wang](https://kw.physics.mcgill.ca/)
 * M.Sc. in Mathematics, McGill University, 2023
   * Supervisor: [Vojkan Jaksic](https://jaksic.xyz/)
-* Visiting M.Sc. Student, CY Institute for Advanced Studies, CY Cergy Paris University, AGM Laboratory, May 2022 - July 2022
+* Visiting M.Sc. Student, CY Institute for Advanced Studies, AGM Laboratory, May 2022 - July 2022
   * Supervisor: [Armen Shirikyan](https://shirikyan.u-cergy.fr/)
 * B.Sc. Joint Honours in Physics and Mathematics, McGill University, 2022
 
