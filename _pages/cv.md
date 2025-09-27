@@ -13,7 +13,7 @@ Short CV
 
 Education
 ======
-* Ph.D in Physics, McGill University, 2027 (expected)
+* Ph.D in Physics, McGill University, 2023 - (ongoing)
   * Supervisors: [Tami Pereg-Barnea](https://pbtami.wixsite.com/mysite-1), [Kai Wang](https://kw.physics.mcgill.ca/)
 * M.Sc. in Mathematics, McGill University, 2023
   * Supervisor: [Vojkan Jaksic](https://jaksic.xyz/)
