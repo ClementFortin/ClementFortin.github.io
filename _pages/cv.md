@@ -24,6 +24,7 @@ Education
 Teaching Assistantships
 ======
 * McGill University
+  * PHYS 230: Dynamics of Simple Systems (Sep. 2025 - Dec. 2025) 
   * PHYS 457: Honours Quantum Mechanics II (Jan. 2025 - May 2025)
   * PHYS 551: Quantum Theory (Sep. 2024 - Dec. 2024)
   * PHYS 457: Honours Quantum Mechanics II (Jan. 2024 - May 2024)
