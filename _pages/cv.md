@@ -13,17 +13,20 @@ Short CV
 
 Education
 ======
-* Ph.D in Physics, McGill University, 2023 - (ongoing)
-  * Supervisors: [Tami Pereg-Barnea](https://pbtami.wixsite.com/mysite-1), [Kai Wang](https://kw.physics.mcgill.ca/)
-* M.Sc. in Mathematics, McGill University, 2023
-  * Supervisor: [Vojkan Jaksic](https://jaksic.xyz/)
-* Visiting M.Sc. Student, CY Institute for Advanced Studies, AGM Laboratory, May 2022 - July 2022
-  * Supervisor: [Armen Shirikyan](https://shirikyan.u-cergy.fr/)
-* B.Sc. Joint Honours in Physics and Mathematics, McGill University, 2022
+* PhD in Physics, McGill University, 2023 - (ongoing)
+    * Supervisors: [Tami Pereg-Barnea](https://pbtami.wixsite.com/mysite-1), [Kai Wang](https://kw.physics.mcgill.ca/)
+  * Visiting PhD. Student, California Institute of Technology, Sep 2026 - Dec 2026
+    * Supervisor: Gil Refael
+* MSc in Mathematics, McGill University, 2023
+    * Supervisor: [Vojkan Jaksic](https://jaksic.xyz/)
+  * Visiting M.Sc. Student, CY Institute for Advanced Studies, AGM Laboratory, May 2022 - July 2022
+    * Supervisor: [Armen Shirikyan](https://shirikyan.u-cergy.fr/)
+* BSc Joint Honours in Physics and Mathematics, McGill University, 2022
 
 Teaching Assistantships
 ======
 * McGill University
+  * PHYS 319: Introduction to Biophysics (Jan. 2026 - May 2026)
   * PHYS 230: Dynamics of Simple Systems (Sep. 2025 - Dec. 2025) 
   * PHYS 457: Honours Quantum Mechanics II (Jan. 2025 - May 2025)
   * PHYS 551: Quantum Theory (Sep. 2024 - Dec. 2024)
